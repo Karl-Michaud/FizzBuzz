@@ -5,5 +5,7 @@ public class Main {
         // it either removes the arguments of FizzBuzz.main
         //making it a normal method or it removes the body of
         //main.
+
+        // For git pull example
     }
 }
